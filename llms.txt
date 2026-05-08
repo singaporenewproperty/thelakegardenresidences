@@ -1,0 +1,9 @@
+# The Lake Garden Residences
+
+> The Lake Garden Residences — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/thelakegardenresidences/
+
+## Pages
+
+- [The Lake Garden Residences](https://singaporenewproperty.github.io/thelakegardenresidences/): The Lake Garden Residences property information.
